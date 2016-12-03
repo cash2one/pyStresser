@@ -6,7 +6,9 @@ class udp():
 		self.attack()
 
 	def attack(self):
-		return 'udpFLOODODZOD'
+		
+
+		return { 'success': False }
 
 attacks = {
 	'udp': udp,
