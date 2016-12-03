@@ -1,5 +1,8 @@
 {
 	"keys": [
-		"default_key123"
+		{
+			"default_key123": 9999,
+			"nigKey123": 1
+		}
 	]
 }
